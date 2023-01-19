@@ -4,7 +4,7 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 
 ## Running the appsdaf
 
-You need a Java JDK 7 or later to run the build. You can run the build like this:
+You need a Java JDK 7 or later to run the sadfbuild. You can run the build like this:
 
     ./gradlew build
 
